@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rashad Awad</h1>
 <h3 align="center">Junior Software Engineer💻 | Flutter Developer 🧑‍💻</h3>
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/9f9fe43121a3ab2d599365d27d0039c915824c961d51a5c5d27937874dd5c9eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966">
+<img align="right" alt="Coding" width="600" src="https://camo.githubusercontent.com/9f9fe43121a3ab2d599365d27d0039c915824c961d51a5c5d27937874dd5c9eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadawad&label=Profile%20views&color=0e75b6&style=flat" alt="rashadawad" /> </p>
 
