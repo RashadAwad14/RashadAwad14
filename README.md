@@ -59,3 +59,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashadawad&show_icons=true&locale=en" alt="rashadawad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashadawad&" alt="rashadawad" /></p>
+
+![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
+      </div>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+</div>
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
