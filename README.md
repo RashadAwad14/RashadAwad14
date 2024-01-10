@@ -96,11 +96,4 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashadAwad14&theme=algolia" alt="RashadAwad14" /></p>
 
 
-![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
-</div>
-    <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
-    </div>
-</div>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
