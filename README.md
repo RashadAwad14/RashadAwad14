@@ -1,11 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rashad Awad</h1>
-<h3 align="center">Junior Software Engineer💻 | Flutter Developer 🧑‍💻</h3>
-<img align="right" alt="Coding" width="1000" src="https://camo.githubusercontent.com/9f9fe43121a3ab2d599365d27d0039c915824c961d51a5c5d27937874dd5c9eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966">
-<dev>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashadawad&label=Profile%20views&color=0e75b6&style=flat" alt="rashadawad" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rashadawad" target="blank"><img src="https://img.shields.io/twitter/follow/rashadawad?logo=twitter&style=for-the-badge" alt="rashadawad" /></a> </p>
+ <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hussein+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
+  </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
@@ -14,6 +10,7 @@
 ![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 <br>  
+
 
 - 🔭 I’m currently working on **Mobile App||Software Engineer**
 
