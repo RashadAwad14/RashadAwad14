@@ -60,7 +60,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashadawad&" alt="rashadawad" /></p>
 
-![snake gif](https://github.com/HusseinMohamed99/HusseinMohamed99/blob/main/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/RashadAwad14/RashadAwad14/blob/main/github-contribution-grid-snake.gif)
       </div>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
