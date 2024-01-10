@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
  <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rashad+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
   </p>
@@ -92,6 +92,4 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=RashadAwad14" height="195"  alt="Rashad'a Langs Stats"  />
 </div>
 
-###
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashadAwad14&theme=algolia" alt="RashadAwad14" /></p>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
