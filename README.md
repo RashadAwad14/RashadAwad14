@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
  <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rashad Awad+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+RashadAwad+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
   </p>
 
 <p align="center">
