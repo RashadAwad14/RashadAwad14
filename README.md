@@ -21,12 +21,20 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with me
 <p align="left">
-<a href="https://twitter.com/rashadawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashadawad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rashad-awad-810bb9228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashad-awad-810bb9228/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100027260630628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027260630628" height="30" width="40" /></a>
+<a href="https://zaap.bio/HusseinMohamed" target="_blank" rel="noreferrer"><img align="center" src="https://uploads-ssl.webflow.com/6026bc921eff07d61a132750/602843b7b4409e5ea0cbcc1c_social-logo-2.png" width="32" height="32" /></a>
+ <a href="http://wa.me/+201022731520/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hussein99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Hussein.M.A.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/husseinhtm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+ <a href="https://twitter.com/Hussein93621667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+   <a href="https://github.com/HusseinMohamed99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hussein_Mohamed" height="30" width="40" /></a>
+   <a href="mailto:hm15520222@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
+<a href="https://web.telegram.org/z/"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="30" alt="telegram logo"  />
 </p>
+
+<hr>
 
 <br>  
   
