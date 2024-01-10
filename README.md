@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/rashadawad" target="blank"><img src="https://img.shields.io/twitter/follow/rashadawad?logo=twitter&style=for-the-badge" alt="rashadawad" /></a> </p>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+</a>
+
 - 🔭 I’m currently working on **Mobile App||Software Engineer**
 
 - 🌱 I’m currently learning **Flutter Framework.**
@@ -23,6 +27,15 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rashad-awad-810bb9228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashad-awad-810bb9228/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100027260630628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100027260630628" height="30" width="40" /></a>
 </p>
+
+<br>  
+  
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 30>  About me
+<br>
+I am a Junior Software developer specializing in Mobile development using the Flutter framework,
+I always strive to develop my work and I always aspire to know what is new in my field of work to improve my quality
+and raise my standards I am able to deal with a team learn and benefit from those who have more experience and share knowledge with my colleagues.
+<br>
 
 ## Visitors count:
   
