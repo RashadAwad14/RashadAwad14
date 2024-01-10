@@ -11,6 +11,14 @@
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 </a>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
+</p>
+
+![flutter](https://img.shields.io/badge/Flutter-Framework-green?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
+<br>  
+
 - 🔭 I’m currently working on **Mobile App||Software Engineer**
 
 - 🌱 I’m currently learning **Flutter Framework.**
