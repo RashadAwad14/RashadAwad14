@@ -92,4 +92,6 @@ and raise my standards I am able to deal with a team learn and benefit from thos
 <img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=RashadAwad14" height="195"  alt="Rashad'a Langs Stats"  />
 </div>
 
+###
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashadAwad14&theme=algolia" alt="RashadAwad14" /></p>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
