@@ -60,6 +60,19 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashadawad&" alt="rashadawad" /></p>
 
+## Github Stats:
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RashadAwad14&theme=github_dark"/>
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=github_dark&username=RashadAwad14"  alt="Rashad'a GitHub Stats "  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?theme=github_dark&layout=compact&username=RashadAwad14" height="195"  alt="Rashad'a Langs Stats"  />
+</div>
+
+###
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RashadAwad14&theme=algolia" alt="RashadAwad14" /></p>
+
+
 ![snake gif](https://github.com/RashadAwad14/RashadAwad14/blob/main/github-contribution-grid-snake.gif)
       </div>
     <div align=center>
