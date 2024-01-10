@@ -1,5 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+<br>
 <img align="right" alt="Coding" width="1000" src="https://camo.githubusercontent.com/9f9fe43121a3ab2d599365d27d0039c915824c961d51a5c5d27937874dd5c9eb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a766b6649346e464e6865433576307037777a447447672e676966">
+<br>
  <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Rashad Awad+👨‍💻+%F0%9F%91%8B;Mobile+Application+Developer+👨‍💻;Junior+Flutter+Developer+👨‍💻" />
   </p>
