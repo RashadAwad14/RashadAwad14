@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rashadawad" target="blank"><img src="https://img.shields.io/twitter/follow/rashadawad?logo=twitter&style=for-the-badge" alt="rashadawad" /></a> </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-</a>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F70000&height=60&lines=SoftWare+Engineering+Student+;Junior+Flutter+Developer&center=true&width=500&height=50"></a>
 </p>
